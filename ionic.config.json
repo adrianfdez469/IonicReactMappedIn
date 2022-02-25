@@ -1,0 +1,7 @@
+{
+  "name": "IonicReactMappedIn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
